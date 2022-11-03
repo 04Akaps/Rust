@@ -1,0 +1,70 @@
+2022-11-03 10:40:28 UTC - DEBUG:Boom!
+2022-11-03 10:40:48 UTC - DEBUG:Boom!
+2022-11-03 10:41:01 UTC - INFO:SIGINT received; starting forced shutdown
+2022-11-03 10:41:01 UTC - DEBUG:Paused accepting connections on 127.0.0.1:8080
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Accept thread stopped
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:41:01 UTC - INFO:Shutting down idle worker
+2022-11-03 10:42:11 UTC - INFO:Starting 8 workers
+2022-11-03 10:42:11 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:42:18 UTC - DEBUG:Boom!
+2022-11-03 10:43:50 UTC - INFO:SIGINT received; starting forced shutdown
+2022-11-03 10:43:50 UTC - DEBUG:Paused accepting connections on 127.0.0.1:8080
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Shutting down idle worker
+2022-11-03 10:43:50 UTC - INFO:Accept thread stopped
+2022-11-03 10:43:59 UTC - INFO:Starting 8 workers
+2022-11-03 10:43:59 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:49:48 UTC - INFO:Starting 8 workers
+2022-11-03 10:49:48 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:49:54 UTC - INFO:Starting 8 workers
+2022-11-03 10:49:54 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:50:24 UTC - INFO:Starting 8 workers
+2022-11-03 10:50:24 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:50:45 UTC - INFO:deleted id is Some(None)
+2022-11-03 10:51:59 UTC - INFO:Starting 8 workers
+2022-11-03 10:51:59 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:52:34 UTC - INFO:deleted id is Some(None)
+2022-11-03 10:53:08 UTC - INFO:Starting 8 workers
+2022-11-03 10:53:08 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:53:19 UTC - INFO:Starting 8 workers
+2022-11-03 10:53:19 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:53:45 UTC - INFO:Starting 8 workers
+2022-11-03 10:53:45 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:53:54 UTC - INFO:Starting 8 workers
+2022-11-03 10:53:54 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:54:35 UTC - INFO:Starting 8 workers
+2022-11-03 10:54:35 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:57:47 UTC - INFO:Starting 8 workers
+2022-11-03 10:57:47 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:57:52 UTC - INFO:Starting 8 workers
+2022-11-03 10:57:52 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 10:58:17 UTC - INFO:Starting 8 workers
+2022-11-03 10:58:17 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 11:02:23 UTC - INFO:Starting 8 workers
+2022-11-03 11:02:23 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 11:02:33 UTC - INFO:Starting 8 workers
+2022-11-03 11:02:33 UTC - INFO:Actix runtime found; starting in Actix runtime
+2022-11-03 11:02:33 UTC - INFO:SIGINT received; starting forced shutdown
+2022-11-03 11:02:33 UTC - DEBUG:Paused accepting connections on 127.0.0.1:8080
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Shutting down idle worker
+2022-11-03 11:02:33 UTC - INFO:Accept thread stopped
